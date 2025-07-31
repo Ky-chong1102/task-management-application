@@ -51,6 +51,7 @@ API Routes in Next.js:
 SQLite
 
 **API Used**
+
 Custom REST API
 
 ## Additional Information
